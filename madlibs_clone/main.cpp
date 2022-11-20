@@ -48,7 +48,8 @@ int main(){
     cout << "Type manName" << endl;
     getline(cin,manName);
 
-    cout << "There once was a " << adjective1 << " girl named " << girlName << " who was a " << adjective2 << " "  << occupation1 << " in the kingdom of " << plaeName << ". She loved to wear " << clothing << " and " << hobby << ". She wanted to mary the " << adjective3 << " " << occupation2 << " named " << boyName << " but her father, King " << manName << " forbid her from seeing him." << endl;
+    cout << "There once was a " << adjective1 << " girl named " << girlName << " who was a " << adjective2 << " "  << occupation1 << " in the kingdom of " << plaeName << ". She loved to wear " << clothing << " and " << hobby << ". She wanted to mary the " << adjective3 << " 
+    " << occupation2 << " named " << boyName << " but her father, King " << manName << " forbid her from seeing him." << endl;
 
 
     return 0;
